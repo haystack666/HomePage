@@ -1,0 +1,46 @@
+{
+    "title": "Haystack的主页",
+    "description": "我的主页",
+    "keywords": "Haystack,主页,个人主页",
+    "author": "Haystack",
+    "logo_img": "./img/icon/logo.png",
+    "logo_text_1": "imhay",
+    "logo_text_2": "icu",
+    "github": "haystack666",
+    "qq": "1039160779",
+    "email": "1039160779@qq.com",
+    "bilibili": "82393113",
+    "telegram": "lspisthere",
+    "Copyright_text": "Haysatck",
+    "beian": "  蜀ICP备2022018495号",
+    "link_1": [
+        "https://blog.imhay.icu/",
+        "fa-solid fa-blog",
+        "博客"
+    ],
+    "link_2": [
+        "https://drive.imhay.icu/",
+        "fa-solid fa-cloud",
+        "网盘(未开放)"
+    ],
+    "link_3": [
+        "https://blog.imhay.icu/",
+        "fa-solid fa-music",
+        "音乐(未开放)"
+    ],
+    "link_4": [
+        "https://nav.imhay.icu/",
+        "fa-solid fa-compass",
+        "起始页(未开放)"
+    ],
+    "link_5": [
+        "https://web.imhay.icu/",
+        "fa-solid fa-book-bookmark",
+        "网址集(未开放)"
+    ],
+    "link_6": [
+        "https://lab.imhay.icu/",
+        "fa-solid fa-flask",
+        "实验室(未开放)"
+    ],
+}
